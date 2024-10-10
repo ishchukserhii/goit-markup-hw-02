@@ -74,11 +74,16 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
 cursor: pointer;
+background-color: #4D5AE5;
 }
+.section-main-buttom:hover,
+.section-main-buttom:focus{
+
+    background: #404bbf;
+    }
 
 
-
-.text-h3 {
+.section-advantages-feature {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -162,6 +167,7 @@ color: #434455;
     color: #f4f4fd;
 }
 .footer-text{
+
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
