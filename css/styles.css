@@ -78,9 +78,8 @@ background-color: #4D5AE5;
 }
 .section-main-buttom:hover,
 .section-main-buttom:focus{
-
-    background: #404bbf;
-    }
+background: #404bbf;
+}
 
 
 .section-advantages-feature {
@@ -99,7 +98,7 @@ color: #434455;
 .team-main {
     background: #f4f4fd;
 }
-.h2 {
+.section-h2 {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
