@@ -67,8 +67,8 @@ text-align: center;
 color: #fff;
 }
 .section-main-buttom {
-font-family: inherit
-font-weight: 500;
+font-family: inherit;
+font-weight:500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
@@ -99,7 +99,7 @@ color: #434455;
 .team-main {
     background: #f4f4fd;
 }
-.team-h2 {
+.h2 {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -127,12 +127,6 @@ color: #434455;
 .team-list {
 background-color: #FFFFFF 
 }
-.portfolio-title{
-font-weight: 700;
-
-text-transform: capitalize
-}
-
 .portfolio-subtitle {
 font-weight: 500;
 font-size: 20px;
